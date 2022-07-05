@@ -12,7 +12,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static io.qameta.allure.Allure.step;
 import static org.assertj.core.api.Assertions.assertThat;
 
-@Tag("t1_tests")
+
 public class T1AutoTests extends TestBase {
 
   public static final String BASE_URL = "https://www.t1-consulting.ru";
@@ -102,7 +102,7 @@ public class T1AutoTests extends TestBase {
 
     });
   }
-
+  @Tag("t1_tests")
   @Test
   @DisplayName("Проверка элемента заголовка 'Продукты'")
   void checkHeaderElementProductsTest() {
@@ -125,7 +125,7 @@ public class T1AutoTests extends TestBase {
       });
     });
   }
-
+  @Tag("t1_tests")
   @Test
   @DisplayName("Проверка элемента заголовка 'Контакты'")
   void checkHeaderElementContactsTest() {
