@@ -44,7 +44,7 @@ public class T1AutoTests extends TestBase {
               "Обратная связь"));
     });
   }
-
+  @Tag("t1_tests")
   @Test
   @DisplayName("Проверка лога консоли страницы на наличие ошибок")
   void consoleShouldNotHaveErrorsTest() {
@@ -89,7 +89,7 @@ public class T1AutoTests extends TestBase {
               "BigData", ""));
     });
   }
-
+  @Tag("t1_tests")
   @Test
   @DisplayName("Проверка элемента заголовка 'Карта решений'")
   void checkHeaderElementSolutionsMapTest() {
@@ -102,7 +102,7 @@ public class T1AutoTests extends TestBase {
 
     });
   }
-  @Tag("t1_tests")
+
   @Test
   @DisplayName("Проверка элемента заголовка 'Продукты'")
   void checkHeaderElementProductsTest() {
@@ -125,7 +125,7 @@ public class T1AutoTests extends TestBase {
       });
     });
   }
-  @Tag("t1_tests")
+
   @Test
   @DisplayName("Проверка элемента заголовка 'Контакты'")
   void checkHeaderElementContactsTest() {
