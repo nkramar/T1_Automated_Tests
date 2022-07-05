@@ -1,4 +1,4 @@
-##  *__Демо проект по автоматизации тестирования для компании T1 Консалтинг__*
+##  ***__Демо проект по автоматизации тестирования для компании T1 Консалтинг__***
 **<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="100" height="100"  alt="Т1 Консалтинг"/></a>**
 ____
 
@@ -9,9 +9,9 @@ ____
 - *Команды для запуска из терминала*
 - *Allure отчёт*
 - *Интреграция с Allure TestOps*
-- *Интеграция Jira*
-- *Отправка отчёта в Telegram*
-- *Примеры видео выполнения тестов*
+- *Интеграция с Jira*
+- *Уведомление в Telegram при помощи Alert bot*
+- *Примеры видео выполнения тестов на Selenoid*
 ____
 
 ## :computer: *Технологии и инструменты*
@@ -45,7 +45,7 @@ ____
 ____
 
 ## <img src="images/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Jenkins job
-<a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/">Сборка в Jenkins</a>
+<a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/">**Сборка в Jenkins**</a>
 <p align="center">  
 <a href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/"><img src="images/JenkinsJob.png" alt="Jenkins"/></a>  
 </p>
@@ -62,14 +62,14 @@ ____
 - *THREADS (количество потоков)*
 
 ____
-## :keyboard: *Запуск тестов из терминала*
+## :keyboard: *Команды для запуска из терминала*
 
-*Локальный запуск:*
+***Локальный запуск:***
 ```bash  
 gradle clean t1_tests
 ```
 
-*Удалённый запуск через Jenkins:*
+***Удалённый запуск через Jenkins:***
 ```bash  
 clean
 t1_tests
@@ -82,7 +82,7 @@ t1_tests
 -Dthreads=${THREADS}
 ```
 
-## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> *Отчёт в* <a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/14/allure/">*Allure*</a>
+## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> *Allure* <a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/14/allure/">*отчёт*</a>
 ___
 
 ### *Основная страница отчёта*
@@ -107,13 +107,13 @@ ___
 
 ## <img src="images/AllureTestOps.svg" width="25" height="25"  alt="Allure"/></a>*Интеграция с* <a target="_blank" href="https://allure.autotests.cloud/project/1430/dashboards">*Allure TestOps*</a>
 
-### *Allure TestOps Dashboard*
+## *Allure TestOps Dashboard*
 
 <p align="center">  
 <img title="Allure TestOps Dashboard" src="images/Allure_Test_Ops_Dashboard.png">  
 </p>  
 
-### *Тест кейсы*
+## *Тест кейсы*
 
 <p align="center">  
 <img title="Allure TestOps Tests" src="images/Allure_TestOps_Test_Cases.png">  
@@ -121,7 +121,7 @@ ___
 
 ___
 
-## <img src="images/Jira.svg" width="25" height="25"  alt="Allure"/></a>*Интеграция с системой* <a target="_blank" href="https://jira.autotests.cloud/browse/AUTO-1175">Jira</a>
+## <img src="images/Jira.svg" width="25" height="25"  alt="Allure"/></a>*Интеграция с* <a target="_blank" href="https://jira.autotests.cloud/browse/AUTO-1175">Jira</a>
 
 <p align="center">  
 <img title="Jira" src="images/Jira_Ticket.png">  
@@ -134,10 +134,11 @@ ____
 <img title="Allure Overview Dashboard" src="images/Telegram_bot.png">  
 </p>
 
-### <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео Selenoid*
 
-<p align="center">  
+## <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео выполнения тестов на Selenoid*
+
+ 
 <img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/Contacts.gif" width="250" height="153"  alt="video">   
-</p>
+
 
 
