@@ -138,5 +138,5 @@ ____
 ### <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео Selenoid*
 
 <p align="center">  
-<img title="Selenoid Video" src="images/VideoExample1.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/VideoExample2.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/VideoExample3.gif" width="250" height="153"  alt="video">  
+<img title="Selenoid Video" src="images/VideoExample1.mp4" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/VideoExample2.mp4" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/VideoExample3.mp4" width="250" height="153"  alt="video">  
 </p>
