@@ -107,13 +107,13 @@ ___
 
 ## <img src="images/AllureTestOps.svg" width="25" height="25"  alt="Allure"/></a>*Интеграция с* <a target="_blank" href="https://allure.autotests.cloud/project/1430/dashboards">*Allure TestOps*</a>
 
-### *Allure TestOps Dashboard*
+## *Allure TestOps Dashboard*
 
 <p align="center">  
 <img title="Allure TestOps Dashboard" src="images/Allure_Test_Ops_Dashboard.png">  
 </p>  
 
-### *Тест кейсы*
+## *Тест кейсы*
 
 <p align="center">  
 <img title="Allure TestOps Tests" src="images/Allure_TestOps_Test_Cases.png">  
@@ -135,11 +135,10 @@ ____
 </p>
 
 
-### <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео выполнения тестов на Selenoid*
+## <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео выполнения тестов на Selenoid*
 
-
-<p align="center">  
+ 
 <img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/Contacts.gif" width="250" height="153"  alt="video">   
-</p>
+
 
 
