@@ -1,9 +1,6 @@
-##  *Демо проект по автоматизации тестирования для T1 Консалтинг*
+##  *Демо проект по автоматизации тестирования для компании T1 Консалтинг*
 
-**<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="50" height="50"  alt="Т1 Консалтинг"/></a>**
-
-[*Сайт компании*](https://www.t1-consulting.ru)
-
+**<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="100" height="100"  alt="Т1 Консалтинг"/></a>**
 ____
 
 ### :green_book: *Содержание*
@@ -19,6 +16,7 @@ ____
 ____
 
 ## :computer: *Технологии и инструменты*
+
 <p align="center">  
 <a href="https://www.jetbrains.com/idea/"><img src="images/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>  
 <a href="https://www.java.com/"><img src="images/Java.svg" width="50" height="50"  alt="Java"/></a>  
@@ -85,7 +83,7 @@ t1_tests
 -Dthreads=${THREADS}
 ```
 
-## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> *Отчет в* <a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/14/allure/">*Allure*</a>
+## <img src="images/Allure_Report.svg" width="25" height="25"  alt="Allure"/></a> *Отчёт в* <a target="_blank" href="https://jenkins.autotests.cloud/job/nkramar_T1_Automated_Tests/14/allure/">*Allure*</a>
 ___
 
 ### *Основная страница отчёта*
