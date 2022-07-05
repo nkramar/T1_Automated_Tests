@@ -1,5 +1,4 @@
 ##  *__Демо проект по автоматизации тестирования для компании T1 Консалтинг__*
-
 **<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="100" height="100"  alt="Т1 Консалтинг"/></a>**
 ____
 
@@ -138,7 +137,7 @@ ____
 ### <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео Selenoid*
 
 <p align="center">  
-<img title="Selenoid Video" src="images/VideoExample1.mp4" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/VideoExample2.mp4" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/VideoExample3.mp4" width="250" height="153"  alt="video">  
+<img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video">   
 </p>
 
 
