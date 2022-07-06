@@ -1,5 +1,5 @@
 <h2 align="center"> Проект по автоматизации тестирования для компании T1 Консалтинг </h2>
-# <a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="150" height="150"  alt="Т1 Консалтинг"/></a>
+<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="150" height="150"  alt="Т1 Консалтинг"/></a>
 
 ### :green_book: *Содержание*
 - *Технологии и инструменты*
