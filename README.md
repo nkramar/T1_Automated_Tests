@@ -1,5 +1,6 @@
-## ***Демо проект по автоматизации тестирования для компании T1 Консалтинг***
-**<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="100" height="100"  alt="Т1 Консалтинг"/></a>**
+<h2 align="center"> Демо проект по автоматизации тестирования для компании T1 Консалтинг
+
+**<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="150" height="150"  alt="Т1 Консалтинг"/></a>**
 ____
 
 ### :green_book: *Содержание*
