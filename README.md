@@ -137,8 +137,6 @@ ____
 
 ## <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео выполнения тестов на Selenoid*
 
- 
-<img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/Contacts.gif" width="250" height="153"  alt="video">   
 
-
+<img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/Contacts.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/SolutionsMap.gif" width="250" height="153"  alt="video"> 
 
