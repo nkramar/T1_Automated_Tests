@@ -1,7 +1,6 @@
 <h2 align="center"> Демо проект по автоматизации тестирования для компании T1 Консалтинг
 
 **<a href="https://www.t1-consulting.ru"><img src="images/t1.svg" width="150" height="150"  alt="Т1 Консалтинг"/></a>**
-____
 
 ### :green_book: *Содержание*
 - *Технологии и инструменты*
@@ -139,5 +138,5 @@ ____
 ## <img src="images/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> *Примеры видео выполнения тестов на Selenoid*
 
 
-<img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/Contacts.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/SolutionsMap.gif" width="250" height="153"  alt="video"> 
+<img title="Selenoid Video" src="images/Products.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/Contacts.gif" width="250" height="153"  alt="video"> <img title="Selenoid Video" src="images/SolutionsMap.gif" width="250" height="153"  alt="video">
 
