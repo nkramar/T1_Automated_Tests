@@ -138,5 +138,5 @@ ____
 
 
 
-<img title="Selenoid Video" src="images/Products.gif" width="450" height="250"  alt="video"> <img title="Selenoid Video" src="images/Contacts.gif" width="450" height="250"   alt="video">
+<img title="Selenoid Video" src="images/Products.gif" width="450" height="250"  alt="video">   <img title="Selenoid Video" src="images/Contacts.gif" width="450" height="250"   alt="video">
 
