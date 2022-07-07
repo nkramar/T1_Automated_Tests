@@ -139,7 +139,6 @@ public class T1AutoTests extends TestBase {
                       "    Телефон: +7 495 981-92-92\n" +
                       "    Факс: +7 495 981-92-91\n" +
                       "    E-mail: info@t1-consulting.ru"));
-
     });
   }
 }
